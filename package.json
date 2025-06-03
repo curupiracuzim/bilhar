@@ -1,0 +1,9 @@
+{
+  "name": "enhanced-billiards",
+  "version": "1.0.0",
+  "description": "Enhanced Billiards Game with AI",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.11.0",
+    "gsap": "^3.12.2"
+  }
+}
